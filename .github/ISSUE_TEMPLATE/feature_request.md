@@ -1,1 +1,0 @@
-intentionally checking for template
